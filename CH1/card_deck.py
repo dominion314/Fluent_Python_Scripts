@@ -5,8 +5,6 @@ This script is showcasing the ability for nampedtuple from
 the collection library to create a deck of cards from just a 
 class and 2 functions: __getitem__ and __len__ 
 
-
-
 '''
 
 import collections
